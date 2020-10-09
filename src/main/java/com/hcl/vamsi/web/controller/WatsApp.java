@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/watsApp")
 public class WatsApp {
-	@RequestMapping("/sendWatsApp")
+	/*@RequestMapping("/sendWatsApp")
 	public void sendWatsApp(){
 		
-	}
+	}*/
 }

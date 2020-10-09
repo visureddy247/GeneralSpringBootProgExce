@@ -14,7 +14,7 @@ public class CallWatsAppOps {
 	 * call Send Wats App API to send message
 	 */
 	//@Bean
-	public CallWatsAppOps callSendWatsApp(String watsAppMsg){
+	/*public CallWatsAppOps callSendWatsApp(String watsAppMsg){
 		return new CallWatsAppOps();
-	}
+	}*/
 }
