@@ -1,4 +1,4 @@
-#Docker file for General Spring Boot Exercise
+
 FROM openjdk:8
 RUN mkdir springapp
 WORKDIR /springapp
